@@ -32,7 +32,7 @@ Make sure to add it to your system PATH.
 Run the program with:
 
 ```bash
-python main.py
+python yt-dlp-chapter-mp3-downloader.py
 ```
 
 ---
