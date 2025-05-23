@@ -50,13 +50,13 @@ pip install pyinstaller
 2. From your project folder, run:
 
 ```bash
-pyinstaller --onefile --noconsole main.py
+pyinstaller --onefile --noconsole yt-dlp-chapter-mp3-downloader.py
 ```
 
 - `--onefile`: Creates a single executable file  
 - `--noconsole`: Hides the console window (useful for GUI apps)  
 
-3. The executable will be created inside the `dist` folder as `main.exe`.
+3. The executable will be created inside the `dist` folder as `yt-dlp-chapter-mp3-downloader.exe`.
 
 ---
 
